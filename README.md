@@ -1,3 +1,11 @@
+
+
+![header](https://capsule-render.vercel.app/api?text=DataScientist%!&fontColor=white)
+
+
+
+
+
 ## 👋 Skill Stack 👋
 <img src="https://img.shields.io/badge/Python-blue?style=flat-square&logo=Python&logoColor=white"/> <img src="https://img.shields.io/badge/Sklearn-9cf?style=flat-square&logo=Scikit-learn&logoColor=white"/> <img src="https://img.shields.io/badge/Tensorflow-orange?style=flat-square&logo=Tensorflow&logoColor=white"/> <img src="https://img.shields.io/badge/Pandas-informational?style=flat-square&logo=Pandas&logoColor=white"/> <img src="https://img.shields.io/badge/SQL-black?style=flat-square&logo=HTML5&logoColor=white" /> <img src="https://img.shields.io/badge/Flask-gray?style=flat-square&logo=Flask&logoColor=white" /> 
 
