@@ -10,6 +10,9 @@
 
 ## 👋 Project 👋
 <a href="https://github.com/lee-jae-hyeong/Project-Study"><img src="https://img.shields.io/badge/GitHub-red?style=flat-square&logo=GitHub&logoColor=white" />
+  
+## 👋 Contact 👋
+<a href="mailto:leejaehyeong1013@gmail.com"><img src="https://img.shields.io/badge/Gmail-red?style=flat-square&logo=Gmail&logoColor=white" />
 <!--
 **lee-jae-hyeong/lee-jae-hyeong** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
