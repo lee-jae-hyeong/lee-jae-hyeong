@@ -1,6 +1,7 @@
 
 
-![header](https://capsule-render.vercel.app/api?text=DataScientist%!&fontColor=white)
+![header](https://capsule-render.vercel.app/api?type=rounded&color=timeAuto&text=JaeHyeong&height=300&fontSize=80&textBg=true&fontColor=black)
+
 
 
 
