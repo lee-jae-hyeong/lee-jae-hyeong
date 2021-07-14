@@ -7,6 +7,9 @@
 
 ## 👋 Used Tools 👋
 <img src="https://img.shields.io/badge/GitHub-ff69b4?style=flat-square&logo=GitHub&logoColor=white" /> <img src="https://img.shields.io/badge/Slack-E34F26?style=flat-square&logo=Slack&logoColor=white" /> <img src="https://img.shields.io/badge/VScode-blue?style=flat-square&logo=Visualstudiocode&logoColor=white" /> <img src="https://img.shields.io/badge/Postman-orange?style=flat-square&logo=Postman&logoColor=white" /> <img src="https://img.shields.io/badge/Anoconda-yellow?style=flat-square&logo=Anaconda&logoColor=white" /> <img src="https://img.shields.io/badge/Notion-white?style=flat-square&logo=Notion&logoColor=black" /> <img src="https://img.shields.io/badge/Asana-red?style=flat-square&logo=Asana&logoColor=black" /> <img src="https://img.shields.io/badge/GoogleColab-yellow?style=flat-square&logo=Googlecolab&logoColor=black" />
+
+## 👋 Project 👋
+<a href="https://github.com/lee-jae-hyeong/Project-Study"><img src="https://img.shields.io/badge/GitHub-red?style=flat-square&logo=GitHub&logoColor=white" />
 <!--
 **lee-jae-hyeong/lee-jae-hyeong** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
