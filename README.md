@@ -1,5 +1,5 @@
 ### Hi there 👋
-<img src="https://img.shields.io/badge/Python-20c997?style=flat-square&logo=Vimeo&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/Python-20c997?style=flat-square&logo=Pimeo&logoColor=white"/></a>
 <!--
 **lee-jae-hyeong/lee-jae-hyeong** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
