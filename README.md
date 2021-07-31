@@ -1,7 +1,6 @@
 
 
 ![header](https://capsule-render.vercel.app/api?type=rounded&color=timeAuto&text=JaeHyeong&height=300&fontSize=80&textBg=true&fontColor=black)
-# 안녕하세요. 데이터와 AI(NLP, RS)에 관심을 가지고 있는 이재형입니다.
 
 
 ## 👋 Project & Study 👋
