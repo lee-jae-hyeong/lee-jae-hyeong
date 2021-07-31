@@ -10,7 +10,7 @@
 <img src="https://img.shields.io/badge/Python-blue?style=flat-square&logo=Python&logoColor=white"/> <img src="https://img.shields.io/badge/Sklearn-9cf?style=flat-square&logo=Scikit-learn&logoColor=white"/> <img src="https://img.shields.io/badge/Tensorflow-orange?style=flat-square&logo=Tensorflow&logoColor=white"/> <img src="https://img.shields.io/badge/Pandas-informational?style=flat-square&logo=Pandas&logoColor=white"/> <img src="https://img.shields.io/badge/SQL-black?style=flat-square&logo=HTML5&logoColor=white" /> <img src="https://img.shields.io/badge/Flask-gray?style=flat-square&logo=Flask&logoColor=white" /> 
 
 ## 👋 관심 분야 👋
-<img src="https://img.shields.io/badge/ML/DL-white?style=flat-square&logo=ML&logoColor=black"/> <img src="https://img.shields.io/badge/NLP-yellow?style=flat-square&logo=NLP&logoColor=white"/> <img src="https://img.shields.io/badge/Recommend-red?style=flat-square&logo=Recommend&logoColor=white"/> <img src="https://img.shields.io/badge/TimeSeries-yellowgreen?style=flat-square&logo=TimeSeries&logoColor=white"/> <img src="https://img.shields.io/badge/DataAnalysis-blue?style=flat-square&logo=DataAnalysis&logoColor=white"/> <img src="https://img.shields.io/badge/DataVisualization-purple?style=flat-square&logo=DataVisualization&logoColor=white"/>
+<img src="https://img.shields.io/badge/ML/DL-white?style=flat-square&logo=ML&logoColor=black"/> <img src="https://img.shields.io/badge/NLP-yellow?style=flat-square&logo=NLP&logoColor=white"/> <img src="https://img.shields.io/badge/Recommend-red?style=flat-square&logo=Recommend&logoColor=white"/> <img src="https://img.shields.io/badge/DataAnalysis-blue?style=flat-square&logo=DataAnalysis&logoColor=white"/>
 
 
 ## 👋 Used Tools 👋
