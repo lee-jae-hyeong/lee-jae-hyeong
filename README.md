@@ -1,8 +1,8 @@
 
 
 ![header](https://capsule-render.vercel.app/api?type=rounded&color=timeAuto&text=JaeHyeong&height=300&fontSize=80&textBg=true&fontColor=black)
+# 안녕하세요. 데이터와 AI(NLP, RS)에 관심을 가지고 있습니다.
 
-## 안녕하세요. 데이터와 AI(NLP, RS)에 관심을 가지고 있습니다.
 
 ## 👋 Project & Study 👋
 <a href="https://github.com/lee-jae-hyeong/Project-Study"><img src="https://img.shields.io/badge/GitHub-red?style=flat-square&logo=GitHub&logoColor=white" />
